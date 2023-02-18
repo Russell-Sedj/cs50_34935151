@@ -1,0 +1,18 @@
+sort1 uses: bubble sort
+
+How do you know?: between the selection, the merge and the buble sort,
+we know that the selection and bubble sort are the one who takes more times because
+they have a big O of n squared. but we also notice that the sort1 takes more time
+to sort a reversed list than the sort 3 so it's means the sort1 is the slowest sort
+which is the buble sort
+
+sort2 uses: merged sort
+
+How do you know?: the merged sort has a big O notation of nlog(n). that means it's
+faster than the two others. so the sort 2 is the merged sort since it has
+the lowest average elapsed real time
+
+sort3 uses: selection sort
+
+How do you know?: since it's average elapsed time is slower than the sort 2 and faster than the sort 1
+we can deduce that it's the selection sort

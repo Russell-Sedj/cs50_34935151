@@ -1,0 +1,26 @@
+.chico
+{
+	padding-top: 15px;
+	color: goldenrod;
+}
+
+.chaco
+{
+	padding-top: 10px;
+}
+
+.chico:hover
+{
+	font-family: monospace;
+	color: darkred;
+}
+
+.paragh
+{
+	padding-top: 15px;
+	margin: auto;
+}
+body
+{
+	background: cyan;
+}
